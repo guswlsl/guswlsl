@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. 개발자 이현진입니다.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyunjin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 <h3 align="center">📚 Tech Stack 📚</h3>
